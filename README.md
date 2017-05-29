@@ -74,6 +74,4 @@ WISCONSIN
 WYOMING
 ```
 need to: 
-  fix async issue and remove setTimeout() bandaid
-  write my own function to determine array differences
-  display results on a hosted website
+  fix async issue and remove setTimeout() bandaid, write my own function to determine array differences, display results on a hosted website
