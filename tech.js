@@ -27,6 +27,8 @@ function getDiff(TechPlayed, AllTeams) {
 getDiff(TechPlayed, AllTeams);
 
 //phrogz JavaScript Array Set Mathematics Library
+//This JavaScript library is copyright 2002 by Gavin Kistner
+//Reuse or modification permitted provided the previous line is included. 
 (function(){
 	var methods = {
 		//*** SORTED IMPLEMENTATIONS *************************************************** 
