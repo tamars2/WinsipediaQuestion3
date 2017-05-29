@@ -4,6 +4,11 @@
 
 I began combing Winsipedia and Wikipedia, comparing Tech's football record to the current list of FBS teams.  Once I determined there were more than a few teams, I knew there was a better way!
 
+```
+npm install
+node app.js
+```
+
 I created a node.js app to scrape two Winsipedia pages (Georgia Tech and All Teams).  Then, I compared the results to each other, revealing the answer.  65 teams in all, including UAB and not including Georgia Tech:
 
 ```
