@@ -2,7 +2,7 @@
 
 "Which current FBS school(s) have NEVER played Georgia Tech in football?"
 
-I began combing Winsipedia and Wikipedia, comparing Tech's football record to the current list of FBS teams.  Once I determined there were more than a few teams, I knew there was a better way!
+I began combing Winsipedia and Wikipedia, comparing Tech's football record to the current list of FBS teams.  Once I determined there were more than a few teams on this list, I knew there had to be a better way!
 
 ```
 npm install
